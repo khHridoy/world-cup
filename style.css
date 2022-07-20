@@ -92,6 +92,7 @@ img {
 }
 .active-nav {
   background-color: #dd0000;
+  border: none;
 }
 .active-nav a {
   color: #fff;
